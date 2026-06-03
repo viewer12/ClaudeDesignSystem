@@ -1,3 +1,9 @@
+<p align="right">
+  <b>English</b> ·
+  <a href="./README.zh-CN.md">简体中文</a> ·
+  <a href="./README.ja.md">日本語</a>
+</p>
+
 # ClaudeDesignSystem for SwiftUI
 
 A community-built, SwiftUI-native implementation of the visual language used by
