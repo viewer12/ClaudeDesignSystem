@@ -7,7 +7,7 @@ Install, theme, and ship a Claude-style screen in five minutes.
 Add the package as a Swift Package Manager dependency.
 
 ```swift
-.package(url: "https://github.com/YOUR_ORG/ClaudeDesignSystem", from: "0.1.0")
+.package(url: "https://github.com/viewer12/ClaudeDesignSystem", from: "0.1.0")
 ```
 
 ## The token layer

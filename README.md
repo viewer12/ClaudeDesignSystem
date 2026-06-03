@@ -29,14 +29,14 @@ neutrals, restrained motion, and a serif-display + sans-body type pairing.
 In Xcode: **File → Add Package Dependencies…** and paste:
 
 ```
-https://github.com/YOUR_ORG/ClaudeDesignSystem
+https://github.com/viewer12/ClaudeDesignSystem
 ```
 
 Or in `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_ORG/ClaudeDesignSystem", from: "0.1.0")
+    .package(url: "https://github.com/viewer12/ClaudeDesignSystem", from: "0.1.0")
 ],
 targets: [
     .target(name: "MyApp", dependencies: ["ClaudeDesignSystem"])
